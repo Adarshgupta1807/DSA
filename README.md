@@ -32,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Adarshgupta1807/DSA/tree/master/0042-trapping-rain-water) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/Adarshgupta1807/DSA/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
