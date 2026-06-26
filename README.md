@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Adarshgupta1807/DSA/tree/master/0042-trapping-rain-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adarshgupta1807/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0238-product-of-array-except-self](https://github.com/Adarshgupta1807/DSA/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/Adarshgupta1807/DSA/tree/master/0274-h-index) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Adarshgupta1807/DSA/tree/master/0058-length-of-last-word) |
+## Sorting
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Adarshgupta1807/DSA/tree/master/0274-h-index) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Adarshgupta1807/DSA/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
