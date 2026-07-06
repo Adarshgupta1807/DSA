@@ -9,7 +9,9 @@ public:
             if(mpp[ch]<=0){
                 return false;
             }
-            mpp[ch]--;
+            else{
+                mpp[ch]--;
+            }
         }
         return true;
     }
