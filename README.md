@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Adarshgupta1807/DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Adarshgupta1807/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Adarshgupta1807/DSA/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/Adarshgupta1807/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Adarshgupta1807/DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Adarshgupta1807/DSA/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adarshgupta1807/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Adarshgupta1807/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adarshgupta1807/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Adarshgupta1807/DSA/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Adarshgupta1807/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Adarshgupta1807/DSA/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Adarshgupta1807/DSA/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Adarshgupta1807/DSA/tree/master/0380-insert-delete-getrandom-o1) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Adarshgupta1807/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Adarshgupta1807/DSA/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Adarshgupta1807/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/Adarshgupta1807/DSA/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
