@@ -182,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Adarshgupta1807/DSA/tree/master/0029-divide-two-integers) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Adarshgupta1807/DSA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
