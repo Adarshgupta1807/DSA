@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Adarshgupta1807/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Adarshgupta1807/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adarshgupta1807/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Adarshgupta1807/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Adarshgupta1807/DSA/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Adarshgupta1807/DSA/tree/master/0392-is-subsequence) |
 | [0962-maximum-width-ramp](https://github.com/Adarshgupta1807/DSA/tree/master/0962-maximum-width-ramp) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Adarshgupta1807/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Adarshgupta1807/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Adarshgupta1807/DSA/tree/master/0076-minimum-window-substring) |
+| [0202-happy-number](https://github.com/Adarshgupta1807/DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Adarshgupta1807/DSA/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Adarshgupta1807/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Adarshgupta1807/DSA/tree/master/0383-ransom-note) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Adarshgupta1807/DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Adarshgupta1807/DSA/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Adarshgupta1807/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/Adarshgupta1807/DSA/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Adarshgupta1807/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 ## Design
 |  |
