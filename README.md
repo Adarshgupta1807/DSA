@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Adarshgupta1807/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Adarshgupta1807/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Adarshgupta1807/DSA/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/Adarshgupta1807/DSA/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/Adarshgupta1807/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Adarshgupta1807/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adarshgupta1807/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -212,4 +213,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Adarshgupta1807/DSA/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/Adarshgupta1807/DSA/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
