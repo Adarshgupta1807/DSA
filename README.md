@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Adarshgupta1807/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Adarshgupta1807/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Adarshgupta1807/DSA/tree/master/0076-minimum-window-substring) |
+| [0138-copy-list-with-random-pointer](https://github.com/Adarshgupta1807/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0202-happy-number](https://github.com/Adarshgupta1807/DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Adarshgupta1807/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Adarshgupta1807/DSA/tree/master/0242-valid-anagram) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Adarshgupta1807/DSA/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/Adarshgupta1807/DSA/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Adarshgupta1807/DSA/tree/master/0086-partition-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/Adarshgupta1807/DSA/tree/master/0138-copy-list-with-random-pointer) |
 ## Recursion
 |  |
 | ------- |
