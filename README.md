@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Adarshgupta1807/DSA/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/Adarshgupta1807/DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Adarshgupta1807/DSA/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Adarshgupta1807/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -212,6 +213,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Adarshgupta1807/DSA/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/Adarshgupta1807/DSA/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Adarshgupta1807/DSA/tree/master/0086-partition-list) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Adarshgupta1807/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
