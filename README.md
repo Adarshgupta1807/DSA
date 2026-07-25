@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Adarshgupta1807/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Adarshgupta1807/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Adarshgupta1807/DSA/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Adarshgupta1807/DSA/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Adarshgupta1807/DSA/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Adarshgupta1807/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Adarshgupta1807/DSA/tree/master/0125-valid-palindrome) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Adarshgupta1807/DSA/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/Adarshgupta1807/DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Adarshgupta1807/DSA/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/Adarshgupta1807/DSA/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Adarshgupta1807/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Adarshgupta1807/DSA/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Adarshgupta1807/DSA/tree/master/0380-insert-delete-getrandom-o1) |
@@ -203,12 +205,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Adarshgupta1807/DSA/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Adarshgupta1807/DSA/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/Adarshgupta1807/DSA/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/Adarshgupta1807/DSA/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Adarshgupta1807/DSA/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Adarshgupta1807/DSA/tree/master/0067-add-binary) |
 ## Enumeration
 |  |
 | ------- |
