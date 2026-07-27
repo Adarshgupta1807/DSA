@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Adarshgupta1807/DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Adarshgupta1807/DSA/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adarshgupta1807/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/Adarshgupta1807/DSA/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Adarshgupta1807/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adarshgupta1807/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adarshgupta1807/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Adarshgupta1807/DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Adarshgupta1807/DSA/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Adarshgupta1807/DSA/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Adarshgupta1807/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Adarshgupta1807/DSA/tree/master/0191-number-of-1-bits) |
 ## Enumeration
