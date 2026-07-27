@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Adarshgupta1807/DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Adarshgupta1807/DSA/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/Adarshgupta1807/DSA/tree/master/0190-reverse-bits) |
 ## Enumeration
 |  |
 | ------- |
@@ -233,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Adarshgupta1807/DSA/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Adarshgupta1807/DSA/tree/master/0206-reverse-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Adarshgupta1807/DSA/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
