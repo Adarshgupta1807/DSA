@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Adarshgupta1807/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Adarshgupta1807/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Adarshgupta1807/DSA/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/Adarshgupta1807/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Adarshgupta1807/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Adarshgupta1807/DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Adarshgupta1807/DSA/tree/master/0118-pascals-triangle) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Adarshgupta1807/DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Adarshgupta1807/DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Adarshgupta1807/DSA/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Adarshgupta1807/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Adarshgupta1807/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Adarshgupta1807/DSA/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Adarshgupta1807/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
