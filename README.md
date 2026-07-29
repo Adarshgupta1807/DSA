@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Adarshgupta1807/DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Adarshgupta1807/DSA/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Adarshgupta1807/DSA/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Adarshgupta1807/DSA/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Adarshgupta1807/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Adarshgupta1807/DSA/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Adarshgupta1807/DSA/tree/master/0380-insert-delete-getrandom-o1) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Adarshgupta1807/DSA/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adarshgupta1807/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adarshgupta1807/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Adarshgupta1807/DSA/tree/master/0713-subarray-product-less-than-k) |
