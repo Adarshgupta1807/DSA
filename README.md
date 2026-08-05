@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Adarshgupta1807/DSA/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/Adarshgupta1807/DSA/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/Adarshgupta1807/DSA/tree/master/0500-keyboard-row) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Adarshgupta1807/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/Adarshgupta1807/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0867-transpose-matrix](https://github.com/Adarshgupta1807/DSA/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Adarshgupta1807/DSA/tree/master/0877-stone-game) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Adarshgupta1807/DSA/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Adarshgupta1807/DSA/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/Adarshgupta1807/DSA/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Adarshgupta1807/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Adarshgupta1807/DSA/tree/master/1331-rank-transform-of-an-array) |
 ## Counting Sort
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Adarshgupta1807/DSA/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Adarshgupta1807/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/Adarshgupta1807/DSA/tree/master/0486-predict-the-winner) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Adarshgupta1807/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Adarshgupta1807/DSA/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adarshgupta1807/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Design
