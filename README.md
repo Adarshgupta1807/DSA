@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/Adarshgupta1807/DSA/tree/master/0962-maximum-width-ramp) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Adarshgupta1807/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adarshgupta1807/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/Adarshgupta1807/DSA/tree/master/1046-last-stone-weight) |
 | [1331-rank-transform-of-an-array](https://github.com/Adarshgupta1807/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Adarshgupta1807/DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adarshgupta1807/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -303,5 +304,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1046-last-stone-weight](https://github.com/Adarshgupta1807/DSA/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adarshgupta1807/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
