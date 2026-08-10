@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Adarshgupta1807/DSA/tree/master/0392-is-subsequence) |
 | [0500-keyboard-row](https://github.com/Adarshgupta1807/DSA/tree/master/0500-keyboard-row) |
 | [1108-defanging-an-ip-address](https://github.com/Adarshgupta1807/DSA/tree/master/1108-defanging-an-ip-address) |
+| [1189-maximum-number-of-balloons](https://github.com/Adarshgupta1807/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Adarshgupta1807/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adarshgupta1807/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/Adarshgupta1807/DSA/tree/master/0274-h-index) |
 | [0383-ransom-note](https://github.com/Adarshgupta1807/DSA/tree/master/0383-ransom-note) |
+| [1189-maximum-number-of-balloons](https://github.com/Adarshgupta1807/DSA/tree/master/1189-maximum-number-of-balloons) |
 ## Trie
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Adarshgupta1807/DSA/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/Adarshgupta1807/DSA/tree/master/0500-keyboard-row) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Adarshgupta1807/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/Adarshgupta1807/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Adarshgupta1807/DSA/tree/master/1331-rank-transform-of-an-array) |
 ## Math
 |  |
