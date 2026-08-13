@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Adarshgupta1807/DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Adarshgupta1807/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Adarshgupta1807/DSA/tree/master/0015-3sum) |
+| [0039-combination-sum](https://github.com/Adarshgupta1807/DSA/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Adarshgupta1807/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Adarshgupta1807/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Adarshgupta1807/DSA/tree/master/0049-group-anagrams) |
@@ -318,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Adarshgupta1807/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Adarshgupta1807/DSA/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
