@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Adarshgupta1807/DSA/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Adarshgupta1807/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Adarshgupta1807/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Adarshgupta1807/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Adarshgupta1807/DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Adarshgupta1807/DSA/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adarshgupta1807/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Adarshgupta1807/DSA/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Adarshgupta1807/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adarshgupta1807/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adarshgupta1807/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Adarshgupta1807/DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Adarshgupta1807/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Adarshgupta1807/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Adarshgupta1807/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Adarshgupta1807/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/Adarshgupta1807/DSA/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/Adarshgupta1807/DSA/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Adarshgupta1807/DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
