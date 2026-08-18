@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Adarshgupta1807/DSA/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/Adarshgupta1807/DSA/tree/master/0500-keyboard-row) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adarshgupta1807/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/Adarshgupta1807/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Adarshgupta1807/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Adarshgupta1807/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Adarshgupta1807/DSA/tree/master/0867-transpose-matrix) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Adarshgupta1807/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adarshgupta1807/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adarshgupta1807/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/Adarshgupta1807/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Adarshgupta1807/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Adarshgupta1807/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Adarshgupta1807/DSA/tree/master/0875-koko-eating-bananas) |
