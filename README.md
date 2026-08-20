@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Adarshgupta1807/DSA/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Adarshgupta1807/DSA/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adarshgupta1807/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/Adarshgupta1807/DSA/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/Adarshgupta1807/DSA/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Adarshgupta1807/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Adarshgupta1807/DSA/tree/master/0509-fibonacci-number) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Adarshgupta1807/DSA/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Adarshgupta1807/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Adarshgupta1807/DSA/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Adarshgupta1807/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Adarshgupta1807/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Adarshgupta1807/DSA/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Adarshgupta1807/DSA/tree/master/0205-isomorphic-strings) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Adarshgupta1807/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Adarshgupta1807/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Adarshgupta1807/DSA/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Adarshgupta1807/DSA/tree/master/0131-palindrome-partitioning) |
 ## Memoization
 |  |
 | ------- |
