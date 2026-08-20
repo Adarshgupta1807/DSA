@@ -1,26 +1,26 @@
 class Solution {
 public:
-    void findCombination(int ind,int target,vector<int>& arr,vector<vector<int>> &ans,vector<int> &ds){
-        // base case
-        if(ind==arr.size()){   
-            if(target==0){
-                ans.push_back(ds);
+    set<vector<int>> s;
+    void allCombination(vector<int>&candidates,vector<int> &comb,vector<vector<int>> &ans,int idx,int target){
+        if(target==0){
+            if(s.find(comb)==s.end()){
+                ans.push_back({comb});
+                s.insert(comb);
             }
-            return;
         }
-        //pick up same element
-        if(arr[ind]<=target){
-            ds.push_back(arr[ind]);
-            findCombination(ind,target-arr[ind],arr,ans,ds);
-            ds.pop_back();
-        }
-        //not pick same elemnt
-        findCombination(ind+1,target,arr,ans,ds);
+        if(idx==candidates.size() || target<0) return;
+        
+        comb.push_back(candidates[idx]);
+        allCombination(candidates,comb,ans,idx+1,target-candidates[idx]);
+        allCombination(candidates,comb,ans,idx,target-candidates[idx]);
+        comb.pop_back();
+        allCombination(candidates,comb,ans,idx+1,target);
     }
+    
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         vector<vector<int>> ans;
-        vector<int> ds;
-        findCombination(0,target,candidates,ans,ds);
+        vector<int> comb;
+        allCombination(candidates,comb,ans,0,target);
         return ans;
     }
 };
