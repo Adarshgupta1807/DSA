@@ -13,7 +13,7 @@ public:
                 return true;
             }
             else if(matrix[row_index][col_index]>target){
-                high=mid-1;
+                high=mid-1;;
             }
             else{
                 low=mid+1;
@@ -21,4 +21,4 @@ public:
         }
         return false;
     }
-}; 
+};
