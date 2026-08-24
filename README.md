@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Adarshgupta1807/DSA/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Adarshgupta1807/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Adarshgupta1807/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Adarshgupta1807/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Adarshgupta1807/DSA/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Adarshgupta1807/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Adarshgupta1807/DSA/tree/master/0046-permutations) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Adarshgupta1807/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adarshgupta1807/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Adarshgupta1807/DSA/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/Adarshgupta1807/DSA/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Adarshgupta1807/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Adarshgupta1807/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Adarshgupta1807/DSA/tree/master/0076-minimum-window-substring) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Adarshgupta1807/DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Adarshgupta1807/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Adarshgupta1807/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Adarshgupta1807/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Adarshgupta1807/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Adarshgupta1807/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Adarshgupta1807/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Adarshgupta1807/DSA/tree/master/0051-n-queens) |
@@ -372,5 +376,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Adarshgupta1807/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Adarshgupta1807/DSA/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Adarshgupta1807/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
