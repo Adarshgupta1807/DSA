@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Adarshgupta1807/DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Adarshgupta1807/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Adarshgupta1807/DSA/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Adarshgupta1807/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Adarshgupta1807/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Adarshgupta1807/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Adarshgupta1807/DSA/tree/master/0055-jump-game) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Adarshgupta1807/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Adarshgupta1807/DSA/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Adarshgupta1807/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Adarshgupta1807/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Adarshgupta1807/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Adarshgupta1807/DSA/tree/master/0131-palindrome-partitioning) |
@@ -367,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Adarshgupta1807/DSA/tree/master/0509-fibonacci-number) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Adarshgupta1807/DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
