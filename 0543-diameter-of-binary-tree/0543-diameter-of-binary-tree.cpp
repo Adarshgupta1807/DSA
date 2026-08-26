@@ -11,19 +11,18 @@
  */
 class Solution {
 public:
+    int ans=0;
     int height(TreeNode* root){
         if(root==NULL) return 0;
         int leftH=height(root->left);
         int rightH=height(root->right);
+        ans=max(leftH+rightH,ans); // current diameter of each node and we are comparing it with ans
         return max(leftH,rightH)+1;
         
     }
     int diameterOfBinaryTree(TreeNode* root) {
         if(root==NULL) return 0;
-
-        int leftdiam=diameterOfBinaryTree(root->left);
-        int rightdiam=diameterOfBinaryTree(root->right);
-        int currdiam=height(root->left)+height(root->right);
-        return max(max(leftdiam,rightdiam),currdiam);
+        height(root);
+        return ans;
     }
 };
