@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/Adarshgupta1807/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Adarshgupta1807/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2596-check-knight-tour-configuration](https://github.com/Adarshgupta1807/DSA/tree/master/2596-check-knight-tour-configuration) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Adarshgupta1807/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Adarshgupta1807/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Dynamic Programming
 |  |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Adarshgupta1807/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adarshgupta1807/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Adarshgupta1807/DSA/tree/master/1552-magnetic-force-between-two-balls) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Adarshgupta1807/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/Adarshgupta1807/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting Sort
 |  |
@@ -416,4 +418,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Adarshgupta1807/DSA/tree/master/0543-diameter-of-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Adarshgupta1807/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
