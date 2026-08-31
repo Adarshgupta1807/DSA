@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Adarshgupta1807/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Adarshgupta1807/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Adarshgupta1807/DSA/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Adarshgupta1807/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Adarshgupta1807/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Adarshgupta1807/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adarshgupta1807/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Adarshgupta1807/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Adarshgupta1807/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Adarshgupta1807/DSA/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Adarshgupta1807/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Adarshgupta1807/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0202-happy-number](https://github.com/Adarshgupta1807/DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Adarshgupta1807/DSA/tree/master/0205-isomorphic-strings) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Adarshgupta1807/DSA/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Adarshgupta1807/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/Adarshgupta1807/DSA/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/Adarshgupta1807/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Adarshgupta1807/DSA/tree/master/0191-number-of-1-bits) |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Adarshgupta1807/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Adarshgupta1807/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Adarshgupta1807/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Adarshgupta1807/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Adarshgupta1807/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
@@ -415,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Adarshgupta1807/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Adarshgupta1807/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Adarshgupta1807/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Adarshgupta1807/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Adarshgupta1807/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
