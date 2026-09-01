@@ -21,7 +21,7 @@ public:
     bool isitpossible(vector<int>&arr,int mid,int h){
         int hours=0;
         for(int i=0;i<arr.size();i++){
-            hours+=(long long)(arr[i]+mid-1)/mid;
+            hours+=(long long)ceil((double)arr[i] / mid);
         }
         if(hours<=h) return true;
         else return false;
