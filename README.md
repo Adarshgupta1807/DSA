@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Adarshgupta1807/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Adarshgupta1807/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Adarshgupta1807/DSA/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Adarshgupta1807/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0962-maximum-width-ramp](https://github.com/Adarshgupta1807/DSA/tree/master/0962-maximum-width-ramp) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Adarshgupta1807/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Adarshgupta1807/DSA/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Adarshgupta1807/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Adarshgupta1807/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Adarshgupta1807/DSA/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Adarshgupta1807/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Adarshgupta1807/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0173-binary-search-tree-iterator](https://github.com/Adarshgupta1807/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/Adarshgupta1807/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Adarshgupta1807/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Adarshgupta1807/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Adarshgupta1807/DSA/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Adarshgupta1807/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Adarshgupta1807/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0173-binary-search-tree-iterator](https://github.com/Adarshgupta1807/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/Adarshgupta1807/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Adarshgupta1807/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Adarshgupta1807/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -515,8 +519,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Adarshgupta1807/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adarshgupta1807/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Adarshgupta1807/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Adarshgupta1807/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Adarshgupta1807/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Adarshgupta1807/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Adarshgupta1807/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Adarshgupta1807/DSA/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
