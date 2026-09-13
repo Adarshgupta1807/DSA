@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adarshgupta1807/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Adarshgupta1807/DSA/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adarshgupta1807/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/Adarshgupta1807/DSA/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Adarshgupta1807/DSA/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Adarshgupta1807/DSA/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Adarshgupta1807/DSA/tree/master/0274-h-index) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Adarshgupta1807/DSA/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Adarshgupta1807/DSA/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/Adarshgupta1807/DSA/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/Adarshgupta1807/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Adarshgupta1807/DSA/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Adarshgupta1807/DSA/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/Adarshgupta1807/DSA/tree/master/0414-third-maximum-number) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Adarshgupta1807/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0202-happy-number](https://github.com/Adarshgupta1807/DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Adarshgupta1807/DSA/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Adarshgupta1807/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Adarshgupta1807/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Adarshgupta1807/DSA/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Adarshgupta1807/DSA/tree/master/0380-insert-delete-getrandom-o1) |
