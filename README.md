@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Adarshgupta1807/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1927-sum-game](https://github.com/Adarshgupta1807/DSA/tree/master/1927-sum-game) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Adarshgupta1807/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2490-circular-sentence](https://github.com/Adarshgupta1807/DSA/tree/master/2490-circular-sentence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adarshgupta1807/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
