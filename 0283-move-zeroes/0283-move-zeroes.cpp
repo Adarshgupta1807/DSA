@@ -6,7 +6,6 @@ public:
         while(j<nums.size()){
             if(nums[j]!=0){
                 swap(nums[i],nums[j]);
-                //j++;
                 i++;
             }
             j++;
