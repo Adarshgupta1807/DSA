@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Adarshgupta1807/DSA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Adarshgupta1807/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Adarshgupta1807/DSA/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/Adarshgupta1807/DSA/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Adarshgupta1807/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0962-maximum-width-ramp](https://github.com/Adarshgupta1807/DSA/tree/master/0962-maximum-width-ramp) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Adarshgupta1807/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Adarshgupta1807/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Adarshgupta1807/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Adarshgupta1807/DSA/tree/master/0392-is-subsequence) |
+| [0905-sort-array-by-parity](https://github.com/Adarshgupta1807/DSA/tree/master/0905-sort-array-by-parity) |
 | [0962-maximum-width-ramp](https://github.com/Adarshgupta1807/DSA/tree/master/0962-maximum-width-ramp) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Adarshgupta1807/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Stack
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Adarshgupta1807/DSA/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/Adarshgupta1807/DSA/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adarshgupta1807/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0905-sort-array-by-parity](https://github.com/Adarshgupta1807/DSA/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/Adarshgupta1807/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adarshgupta1807/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Adarshgupta1807/DSA/tree/master/1552-magnetic-force-between-two-balls) |
