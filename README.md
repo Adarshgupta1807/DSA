@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Adarshgupta1807/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Adarshgupta1807/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Adarshgupta1807/DSA/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/Adarshgupta1807/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Adarshgupta1807/DSA/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Adarshgupta1807/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adarshgupta1807/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Adarshgupta1807/DSA/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Adarshgupta1807/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Adarshgupta1807/DSA/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/Adarshgupta1807/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Adarshgupta1807/DSA/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/Adarshgupta1807/DSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Adarshgupta1807/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Adarshgupta1807/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Adarshgupta1807/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Adarshgupta1807/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Adarshgupta1807/DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Adarshgupta1807/DSA/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/Adarshgupta1807/DSA/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Adarshgupta1807/DSA/tree/master/0217-contains-duplicate) |
