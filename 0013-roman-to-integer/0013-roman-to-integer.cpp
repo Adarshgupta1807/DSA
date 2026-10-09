@@ -1,7 +1,7 @@
 class Solution {
 public:
     int romanToInt(string s) {
-        unordered_map<char,int>mpp;
+        unordered_map<char,int> mpp;
         mpp['I']=1;
         mpp['V']=5;
         mpp['X']=10;
@@ -13,12 +13,12 @@ public:
         int n=s.size();
         int i=0;
         while(i<n){
-            if(mpp[s[i]]<mpp[s[i+1]]){
+            if(mpp[s[i]]<mpp[s[i+1]] && (i+1<=n-1)){
                 ans=ans+(mpp[s[i+1]]-mpp[s[i]]);
                 i=i+2;
             }
             else{
-                ans=ans+mpp[s[i]];
+                ans+=mpp[s[i]];
                 i++;
             }
         }
