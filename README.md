@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adarshgupta1807/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Adarshgupta1807/DSA/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Adarshgupta1807/DSA/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/Adarshgupta1807/DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Adarshgupta1807/DSA/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Adarshgupta1807/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Adarshgupta1807/DSA/tree/master/0509-fibonacci-number) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Adarshgupta1807/DSA/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Adarshgupta1807/DSA/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0287-find-the-duplicate-number](https://github.com/Adarshgupta1807/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Adarshgupta1807/DSA/tree/master/0338-counting-bits) |
 ## Enumeration
 |  |
 | ------- |
