@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Adarshgupta1807/DSA/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Adarshgupta1807/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Adarshgupta1807/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Adarshgupta1807/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/Adarshgupta1807/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Adarshgupta1807/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Adarshgupta1807/DSA/tree/master/0210-course-schedule-ii) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Adarshgupta1807/DSA/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Adarshgupta1807/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Adarshgupta1807/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Adarshgupta1807/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/Adarshgupta1807/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/Adarshgupta1807/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Adarshgupta1807/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Adarshgupta1807/DSA/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Adarshgupta1807/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Adarshgupta1807/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Adarshgupta1807/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/Adarshgupta1807/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/Adarshgupta1807/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Adarshgupta1807/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
