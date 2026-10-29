@@ -1,14 +1,21 @@
 class Solution {
 public:
-    int minEatingSpeed(vector<int>& arr, int h) {
-        if(h==1000000000) return 3;
-        sort(arr.begin(),arr.end());
+    bool IsItPossible(vector<int>& piles, int mid, int h){
+            long long sum=0;
+            for(int i=0;i<piles.size();i++){
+                sum+=(long long)ceil((double)piles[i] / mid);
+            }
+            if(sum<=h) return true;
+            else return false;
+        }
+    int minEatingSpeed(vector<int>& piles, int h) {
+        sort(piles.begin(),piles.end());
         int low=1;
-        int high=(long long)arr[arr.size()-1];
-        int ans=0;
+        int high=(long long)piles[piles.size()-1];
+        int ans=INT_MAX;
         while(low<=high){
             int mid=low+(high-low)/2;
-            if(isitpossible(arr,mid,h)){
+            if(IsItPossible(piles,mid,h)){
                 ans=mid;
                 high=mid-1;
             }
@@ -17,13 +24,5 @@ public:
             }
         }
         return ans;
-    }
-    bool isitpossible(vector<int>&arr,int mid,int h){
-        int hours=0;
-        for(int i=0;i<arr.size();i++){
-            hours+=(long long)ceil((double)arr[i] / mid);
-        }
-        if(hours<=h) return true;
-        else return false;
     }
 };
