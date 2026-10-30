@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Adarshgupta1807/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Adarshgupta1807/DSA/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Adarshgupta1807/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0876-middle-of-the-linked-list](https://github.com/Adarshgupta1807/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Adarshgupta1807/DSA/tree/master/0905-sort-array-by-parity) |
 | [0962-maximum-width-ramp](https://github.com/Adarshgupta1807/DSA/tree/master/0962-maximum-width-ramp) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Adarshgupta1807/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Adarshgupta1807/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Adarshgupta1807/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Adarshgupta1807/DSA/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Adarshgupta1807/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
