@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Adarshgupta1807/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1927-sum-game](https://github.com/Adarshgupta1807/DSA/tree/master/1927-sum-game) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Adarshgupta1807/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/Adarshgupta1807/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2490-circular-sentence](https://github.com/Adarshgupta1807/DSA/tree/master/2490-circular-sentence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adarshgupta1807/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Adarshgupta1807/DSA/tree/master/0274-h-index) |
 | [0383-ransom-note](https://github.com/Adarshgupta1807/DSA/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/Adarshgupta1807/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [2351-first-letter-to-appear-twice](https://github.com/Adarshgupta1807/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Trie
 |  |
 | ------- |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Adarshgupta1807/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Adarshgupta1807/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Adarshgupta1807/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/Adarshgupta1807/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
 |  |
 | ------- |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Adarshgupta1807/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Adarshgupta1807/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Adarshgupta1807/DSA/tree/master/0338-counting-bits) |
+| [2351-first-letter-to-appear-twice](https://github.com/Adarshgupta1807/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Enumeration
 |  |
 | ------- |
