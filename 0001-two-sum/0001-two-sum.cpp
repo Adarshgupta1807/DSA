@@ -4,12 +4,8 @@ public:
         unordered_map<int,int> mpp;
         for(int i=0;i<nums.size();i++){
             int complement=target-nums[i];
-            if(mpp.count(complement)){
-                return {mpp[complement],i};
-            }
-            else{
-                mpp[nums[i]]=i;
-            }
+            if(mpp.find(complement)!=mpp.end()) return {mpp[complement],i};
+            else mpp[nums[i]]=i;
         }
         return {-1,-1};
     }
