@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adarshgupta1807/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Adarshgupta1807/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adarshgupta1807/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Adarshgupta1807/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Adarshgupta1807/DSA/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Adarshgupta1807/DSA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Adarshgupta1807/DSA/tree/master/0200-number-of-islands) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Adarshgupta1807/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Adarshgupta1807/DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Adarshgupta1807/DSA/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Adarshgupta1807/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Adarshgupta1807/DSA/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Adarshgupta1807/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Adarshgupta1807/DSA/tree/master/0242-valid-anagram) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Adarshgupta1807/DSA/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Adarshgupta1807/DSA/tree/master/0274-h-index) |
 | [0383-ransom-note](https://github.com/Adarshgupta1807/DSA/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/Adarshgupta1807/DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Adarshgupta1807/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Adarshgupta1807/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adarshgupta1807/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Adarshgupta1807/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Adarshgupta1807/DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Adarshgupta1807/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Adarshgupta1807/DSA/tree/master/0217-contains-duplicate) |
@@ -446,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Adarshgupta1807/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adarshgupta1807/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Adarshgupta1807/DSA/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Adarshgupta1807/DSA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Adarshgupta1807/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Adarshgupta1807/DSA/tree/master/0191-number-of-1-bits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Adarshgupta1807/DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -672,4 +677,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Adarshgupta1807/DSA/tree/master/0005-longest-palindromic-substring) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Adarshgupta1807/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
