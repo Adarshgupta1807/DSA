@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Adarshgupta1807/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adarshgupta1807/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Adarshgupta1807/DSA/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/Adarshgupta1807/DSA/tree/master/0705-design-hashset) |
 | [0713-subarray-product-less-than-k](https://github.com/Adarshgupta1807/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/Adarshgupta1807/DSA/tree/master/0735-asteroid-collision) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Adarshgupta1807/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Adarshgupta1807/DSA/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/Adarshgupta1807/DSA/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Adarshgupta1807/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0705-design-hashset](https://github.com/Adarshgupta1807/DSA/tree/master/0705-design-hashset) |
 | [0904-fruit-into-baskets](https://github.com/Adarshgupta1807/DSA/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Adarshgupta1807/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Adarshgupta1807/DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Adarshgupta1807/DSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Adarshgupta1807/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Adarshgupta1807/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0705-design-hashset](https://github.com/Adarshgupta1807/DSA/tree/master/0705-design-hashset) |
 ## Randomized
 |  |
 | ------- |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Adarshgupta1807/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Adarshgupta1807/DSA/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Adarshgupta1807/DSA/tree/master/0445-add-two-numbers-ii) |
+| [0705-design-hashset](https://github.com/Adarshgupta1807/DSA/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/Adarshgupta1807/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Adarshgupta1807/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -684,4 +688,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Adarshgupta1807/DSA/tree/master/0169-majority-element) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Adarshgupta1807/DSA/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
