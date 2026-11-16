@@ -11,9 +11,9 @@ public:
                 char top=st.top();
                 st.pop();
                 if(top!='(' && ch==')') return false;
-                if(top!='{' && ch=='}') return false;
                 if(top!='[' && ch==']') return false;
-            }
+                if(top!='{' && ch=='}') return false;
+            } 
         }
         return st.empty();
     }
