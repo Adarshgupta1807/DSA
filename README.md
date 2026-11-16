@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Adarshgupta1807/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/Adarshgupta1807/DSA/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/Adarshgupta1807/DSA/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/Adarshgupta1807/DSA/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Adarshgupta1807/DSA/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/Adarshgupta1807/DSA/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Adarshgupta1807/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Adarshgupta1807/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/Adarshgupta1807/DSA/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Adarshgupta1807/DSA/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/Adarshgupta1807/DSA/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Adarshgupta1807/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Adarshgupta1807/DSA/tree/master/0735-asteroid-collision) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adarshgupta1807/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Adarshgupta1807/DSA/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Adarshgupta1807/DSA/tree/master/0496-next-greater-element-i) |
 | [0962-maximum-width-ramp](https://github.com/Adarshgupta1807/DSA/tree/master/0962-maximum-width-ramp) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Adarshgupta1807/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## String
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Adarshgupta1807/DSA/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Adarshgupta1807/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Adarshgupta1807/DSA/tree/master/0383-ransom-note) |
+| [0496-next-greater-element-i](https://github.com/Adarshgupta1807/DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Adarshgupta1807/DSA/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Adarshgupta1807/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/Adarshgupta1807/DSA/tree/master/0705-design-hashset) |
