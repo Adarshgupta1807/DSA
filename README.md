@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Adarshgupta1807/DSA/tree/master/0705-design-hashset) |
 | [0713-subarray-product-less-than-k](https://github.com/Adarshgupta1807/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/Adarshgupta1807/DSA/tree/master/0735-asteroid-collision) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/Adarshgupta1807/DSA/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Adarshgupta1807/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Adarshgupta1807/DSA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Adarshgupta1807/DSA/tree/master/0875-koko-eating-bananas) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Adarshgupta1807/DSA/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Adarshgupta1807/DSA/tree/master/0179-largest-number) |
 | [0678-valid-parenthesis-string](https://github.com/Adarshgupta1807/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/Adarshgupta1807/DSA/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adarshgupta1807/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1927-sum-game](https://github.com/Adarshgupta1807/DSA/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Adarshgupta1807/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Adarshgupta1807/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Adarshgupta1807/DSA/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/Adarshgupta1807/DSA/tree/master/0498-diagonal-traverse) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/Adarshgupta1807/DSA/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0867-transpose-matrix](https://github.com/Adarshgupta1807/DSA/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Adarshgupta1807/DSA/tree/master/0994-rotting-oranges) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Adarshgupta1807/DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
