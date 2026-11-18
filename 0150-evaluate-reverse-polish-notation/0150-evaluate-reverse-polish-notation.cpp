@@ -1,26 +1,23 @@
 class Solution {
 public:
-int operation(int a,int b, string token){
-    if(token=="+") return b+a;
-    if(token=="*") return b*a;
-    if(token=="-") return b-a;
-    return b/a;
-}
+    int operation(int a,int b,const string& ch){
+        if(ch=="+") return a+b;
+        else if(ch=="-") return b-a;
+        else if(ch=="*") return a*b;
+        else return b/a;
+    }
     int evalRPN(vector<string>& tokens) {
-        //int result=0;
         stack<int> st;
-        for(int i=0;i<tokens.size();i++){
-            if(tokens[i]=="+" || tokens[i]=="-" || tokens[i]=="*" || tokens[i]=="/"){
-                int a=st.top(); 
+        for(const string& ch:tokens){
+            if(ch=="+" || ch=="-" || ch=="*" || ch=="/"){
+                int a=st.top();
                 st.pop();
-                int b=st.top(); 
+                int b=st.top();
                 st.pop();
-                int result=operation(a,b,tokens[i]);
+                int result=operation(a,b,ch);
                 st.push(result);
             }
-            else{
-                st.push(stoi(tokens[i]));
-            }
+            else st.push(stoi(ch));
         }
         return st.top();
     }
