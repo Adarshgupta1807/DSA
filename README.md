@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2596-check-knight-tour-configuration](https://github.com/Adarshgupta1807/DSA/tree/master/2596-check-knight-tour-configuration) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Adarshgupta1807/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Adarshgupta1807/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Adarshgupta1807/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Adarshgupta1807/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Adarshgupta1807/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Adarshgupta1807/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adarshgupta1807/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Adarshgupta1807/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Adarshgupta1807/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3536-maximum-product-of-two-digits](https://github.com/Adarshgupta1807/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Adarshgupta1807/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Adarshgupta1807/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Adarshgupta1807/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Adarshgupta1807/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adarshgupta1807/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Adarshgupta1807/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Matrix
 |  |
 | ------- |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/Adarshgupta1807/DSA/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Adarshgupta1807/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Adarshgupta1807/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Linked List
 |  |
 | ------- |
@@ -750,4 +754,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Adarshgupta1807/DSA/tree/master/1352-product-of-the-last-k-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Adarshgupta1807/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
